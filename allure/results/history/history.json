@@ -1,0 +1,2142 @@
+{
+  "a0f569d5f2ea4e91f2065c49c9143745" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "e7aca2787cab4344",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/e7aca2787cab4344",
+      "status" : "broken",
+      "statusDetails" : "\nYou can implement step definitions for undefined steps with these snippets:\n\n@given(u'I load the website123')\ndef step_impl(context):\n    raise NotImplementedError(u'STEP: Given I load the website123')\n\n",
+      "time" : {
+        "start" : 1593164643969,
+        "stop" : 1593164643970,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "78d8bc34d7aca28f",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/78d8bc34d7aca28f",
+      "status" : "broken",
+      "statusDetails" : "\nYou can implement step definitions for undefined steps with these snippets:\n\n@given(u'I load the website123')\ndef step_impl(context):\n    raise NotImplementedError(u'STEP: Given I load the website123')\n\n",
+      "time" : {
+        "start" : 1593164643969,
+        "stop" : 1593164643970,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "50afa99af1987752",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/50afa99af1987752",
+      "status" : "broken",
+      "statusDetails" : "\nYou can implement step definitions for undefined steps with these snippets:\n\n@given(u'I load the website123')\ndef step_impl(context):\n    raise NotImplementedError(u'STEP: Given I load the website123')\n\n",
+      "time" : {
+        "start" : 1593164643969,
+        "stop" : 1593164643970,
+        "duration" : 1
+      }
+    } ]
+  },
+  "d6fa906e39a596cedde3c40ae0e160bd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "959cbece36f068e8",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/959cbece36f068e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469322122,
+        "stop" : 1593469322845,
+        "duration" : 723
+      }
+    } ]
+  },
+  "c61ec5b05d09ee6fa5241e9e0ea2e9cd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "f9088a1409784e5e",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/f9088a1409784e5e",
+      "status" : "broken",
+      "statusDetails" : "\nYou can implement step definitions for undefined steps with these snippets:\n\n@given(u'I load the website123')\ndef step_impl(context):\n    raise NotImplementedError(u'STEP: Given I load the website123')\n\n",
+      "time" : {
+        "start" : 1593164643973,
+        "stop" : 1593164643974,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "2447e081e01a9678",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/2447e081e01a9678",
+      "status" : "broken",
+      "statusDetails" : "\nYou can implement step definitions for undefined steps with these snippets:\n\n@given(u'I load the website123')\ndef step_impl(context):\n    raise NotImplementedError(u'STEP: Given I load the website123')\n\n",
+      "time" : {
+        "start" : 1593164643973,
+        "stop" : 1593164643974,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "420f10cd79e96916",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/420f10cd79e96916",
+      "status" : "broken",
+      "statusDetails" : "\nYou can implement step definitions for undefined steps with these snippets:\n\n@given(u'I load the website123')\ndef step_impl(context):\n    raise NotImplementedError(u'STEP: Given I load the website123')\n\n",
+      "time" : {
+        "start" : 1593164643973,
+        "stop" : 1593164643974,
+        "duration" : 1
+      }
+    } ]
+  },
+  "8de5d7ef193cdf14b167820df7e0340b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "a17678af7d6beaca",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/a17678af7d6beaca",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"dashboard-status-component\"]\"}\n  (Session info: headless chrome=83.0.4103.116)\n\n",
+      "time" : {
+        "start" : 1593163710981,
+        "stop" : 1593163711927,
+        "duration" : 946
+      }
+    }, {
+      "uid" : "bdbddae567f47b97",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/bdbddae567f47b97",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"dashboard-status-component\"]\"}\n  (Session info: headless chrome=83.0.4103.116)\n\n",
+      "time" : {
+        "start" : 1593163710981,
+        "stop" : 1593163711927,
+        "duration" : 946
+      }
+    }, {
+      "uid" : "22564e6eec15e68e",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/22564e6eec15e68e",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"dashboard-status-component\"]\"}\n  (Session info: headless chrome=83.0.4103.116)\n\n",
+      "time" : {
+        "start" : 1593163710981,
+        "stop" : 1593163711927,
+        "duration" : 946
+      }
+    }, {
+      "uid" : "fde2a11e54782ace",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/fde2a11e54782ace",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640210217,
+        "stop" : 1592640211605,
+        "duration" : 1388
+      }
+    }, {
+      "uid" : "ac263b9e5da5679c",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/ac263b9e5da5679c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640174449,
+        "stop" : 1592640175358,
+        "duration" : 909
+      }
+    } ]
+  },
+  "1eee7b601113550880f5de9035bf36dd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "eb13001b1ab5f091",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/eb13001b1ab5f091",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163725607,
+        "stop" : 1593163726310,
+        "duration" : 703
+      }
+    }, {
+      "uid" : "3ab3e4ac89d7dd71",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/3ab3e4ac89d7dd71",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163725607,
+        "stop" : 1593163726310,
+        "duration" : 703
+      }
+    }, {
+      "uid" : "a44b514aca177ec3",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/a44b514aca177ec3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163725607,
+        "stop" : 1593163726310,
+        "duration" : 703
+      }
+    }, {
+      "uid" : "a24da7ae246df8f3",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/a24da7ae246df8f3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640228444,
+        "stop" : 1592640229409,
+        "duration" : 965
+      }
+    }, {
+      "uid" : "390c70ae36a36d37",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/390c70ae36a36d37",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640190471,
+        "stop" : 1592640191131,
+        "duration" : 660
+      }
+    } ]
+  },
+  "f2098796612d4dbc5af2eaf05b4a6f5c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "32cd17c2157912d4",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/32cd17c2157912d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469320131,
+        "stop" : 1593469320780,
+        "duration" : 649
+      }
+    } ]
+  },
+  "fc4eeb8ab14ee58f186aca5fbe696a25" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8e96b1149f8b4191",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/8e96b1149f8b4191",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469322846,
+        "stop" : 1593469323330,
+        "duration" : 484
+      }
+    } ]
+  },
+  "cd7c76e60bcc4b1dea5b5bf69a35b24e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "a7a189be5751a92f",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/a7a189be5751a92f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163715401,
+        "stop" : 1593163716267,
+        "duration" : 866
+      }
+    }, {
+      "uid" : "35333b302cfaa6b0",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/35333b302cfaa6b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163715401,
+        "stop" : 1593163716267,
+        "duration" : 866
+      }
+    }, {
+      "uid" : "8fcd70f2bb63d54",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/8fcd70f2bb63d54",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163715401,
+        "stop" : 1593163716267,
+        "duration" : 866
+      }
+    }, {
+      "uid" : "b172d8d8a3187a25",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/b172d8d8a3187a25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640216200,
+        "stop" : 1592640217385,
+        "duration" : 1185
+      }
+    }, {
+      "uid" : "8f2e4f4a9dda48bc",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/8f2e4f4a9dda48bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640179399,
+        "stop" : 1592640180293,
+        "duration" : 894
+      }
+    } ]
+  },
+  "712eef6aba948b89e21476c2ba043e80" : {
+    "statistic" : {
+      "failed" : 5,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "7fcba84d67c93091",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/7fcba84d67c93091",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Component Status not found on page\n",
+      "time" : {
+        "start" : 1593163699569,
+        "stop" : 1593163703834,
+        "duration" : 4265
+      }
+    }, {
+      "uid" : "1c55d64bfa6c2e24",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/1c55d64bfa6c2e24",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Component Status not found on page\n",
+      "time" : {
+        "start" : 1593163699569,
+        "stop" : 1593163703834,
+        "duration" : 4265
+      }
+    }, {
+      "uid" : "5539e030b432b0db",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/5539e030b432b0db",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Component Status not found on page\n",
+      "time" : {
+        "start" : 1593163699569,
+        "stop" : 1593163703834,
+        "duration" : 4265
+      }
+    }, {
+      "uid" : "cf7b770294562545",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/cf7b770294562545",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Component Status not found on page\n",
+      "time" : {
+        "start" : 1592640198087,
+        "stop" : 1592640201487,
+        "duration" : 3400
+      }
+    }, {
+      "uid" : "48e74a4a5e19c032",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/48e74a4a5e19c032",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Component Status not found on page\n",
+      "time" : {
+        "start" : 1592640163135,
+        "stop" : 1592640166829,
+        "duration" : 3694
+      }
+    } ]
+  },
+  "78045e3aebfea91a5e309b701850e1db" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "db908a6bbc1f94fa",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/db908a6bbc1f94fa",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"dashboard-status-component\"]\"}\n  (Session info: headless chrome=83.0.4103.116)\n\n",
+      "time" : {
+        "start" : 1593163707326,
+        "stop" : 1593163708272,
+        "duration" : 946
+      }
+    }, {
+      "uid" : "41dc88cfd58a95d6",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/41dc88cfd58a95d6",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"dashboard-status-component\"]\"}\n  (Session info: headless chrome=83.0.4103.116)\n\n",
+      "time" : {
+        "start" : 1593163707326,
+        "stop" : 1593163708272,
+        "duration" : 946
+      }
+    }, {
+      "uid" : "9c8ba5fd9c47b78",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/9c8ba5fd9c47b78",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"dashboard-status-component\"]\"}\n  (Session info: headless chrome=83.0.4103.116)\n\n",
+      "time" : {
+        "start" : 1593163707326,
+        "stop" : 1593163708272,
+        "duration" : 946
+      }
+    }, {
+      "uid" : "2aea0c84f772bd52",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/2aea0c84f772bd52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640205837,
+        "stop" : 1592640206911,
+        "duration" : 1074
+      }
+    }, {
+      "uid" : "b87e57b51cf10ddc",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/b87e57b51cf10ddc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640170578,
+        "stop" : 1592640171622,
+        "duration" : 1044
+      }
+    } ]
+  },
+  "4279827d232c5b35672ae56adb2de4e1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "dc76af7390a2981a",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/dc76af7390a2981a",
+      "status" : "broken",
+      "statusDetails" : "\nYou can implement step definitions for undefined steps with these snippets:\n\n@given(u'I load the website123')\ndef step_impl(context):\n    raise NotImplementedError(u'STEP: Given I load the website123')\n\n",
+      "time" : {
+        "start" : 1593164643965,
+        "stop" : 1593164643967,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "df28520128751959",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/df28520128751959",
+      "status" : "broken",
+      "statusDetails" : "\nYou can implement step definitions for undefined steps with these snippets:\n\n@given(u'I load the website123')\ndef step_impl(context):\n    raise NotImplementedError(u'STEP: Given I load the website123')\n\n",
+      "time" : {
+        "start" : 1593164643965,
+        "stop" : 1593164643967,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "91c179d3a6d0b972",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/91c179d3a6d0b972",
+      "status" : "broken",
+      "statusDetails" : "\nYou can implement step definitions for undefined steps with these snippets:\n\n@given(u'I load the website123')\ndef step_impl(context):\n    raise NotImplementedError(u'STEP: Given I load the website123')\n\n",
+      "time" : {
+        "start" : 1593164643965,
+        "stop" : 1593164643967,
+        "duration" : 2
+      }
+    } ]
+  },
+  "7378c1e30397451d23320e796fa499b8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "d39d9fe34d7ed0b5",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/d39d9fe34d7ed0b5",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"dashboard-status-component\"]\"}\n  (Session info: headless chrome=83.0.4103.116)\n\n",
+      "time" : {
+        "start" : 1593163713637,
+        "stop" : 1593163714510,
+        "duration" : 873
+      }
+    }, {
+      "uid" : "8fdc4a1db4990ab4",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/8fdc4a1db4990ab4",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"dashboard-status-component\"]\"}\n  (Session info: headless chrome=83.0.4103.116)\n\n",
+      "time" : {
+        "start" : 1593163713637,
+        "stop" : 1593163714510,
+        "duration" : 873
+      }
+    }, {
+      "uid" : "31fb622869b6d816",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/31fb622869b6d816",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"dashboard-status-component\"]\"}\n  (Session info: headless chrome=83.0.4103.116)\n\n",
+      "time" : {
+        "start" : 1593163713637,
+        "stop" : 1593163714510,
+        "duration" : 873
+      }
+    }, {
+      "uid" : "df534b514ee1b1ef",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/df534b514ee1b1ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640214081,
+        "stop" : 1592640215215,
+        "duration" : 1134
+      }
+    }, {
+      "uid" : "463a40ab43084970",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/463a40ab43084970",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640177169,
+        "stop" : 1592640178423,
+        "duration" : 1254
+      }
+    } ]
+  },
+  "ff1c121beb8f5da670e520cc29108bea" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "59582993c11d3907",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/59582993c11d3907",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469319038,
+        "stop" : 1593469319552,
+        "duration" : 514
+      }
+    } ]
+  },
+  "2489d9b8714457c5022e7a5e01eaeded" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8b0443f54a6a8734",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/8b0443f54a6a8734",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469320781,
+        "stop" : 1593469321395,
+        "duration" : 614
+      }
+    } ]
+  },
+  "d5901b773096909d04f0c57113ecd622" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "cee3550deb204d31",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/cee3550deb204d31",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"dashboard-status-component\"]\"}\n  (Session info: headless chrome=83.0.4103.116)\n\n",
+      "time" : {
+        "start" : 1593163711928,
+        "stop" : 1593163712862,
+        "duration" : 934
+      }
+    }, {
+      "uid" : "4bffee731c697086",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/4bffee731c697086",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"dashboard-status-component\"]\"}\n  (Session info: headless chrome=83.0.4103.116)\n\n",
+      "time" : {
+        "start" : 1593163711928,
+        "stop" : 1593163712862,
+        "duration" : 934
+      }
+    }, {
+      "uid" : "e0dfb583a2de768a",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/e0dfb583a2de768a",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"dashboard-status-component\"]\"}\n  (Session info: headless chrome=83.0.4103.116)\n\n",
+      "time" : {
+        "start" : 1593163711928,
+        "stop" : 1593163712862,
+        "duration" : 934
+      }
+    }, {
+      "uid" : "19d580311d62faa0",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/19d580311d62faa0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640211617,
+        "stop" : 1592640212695,
+        "duration" : 1078
+      }
+    }, {
+      "uid" : "89c100c991422a52",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/89c100c991422a52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640175359,
+        "stop" : 1592640176247,
+        "duration" : 888
+      }
+    } ]
+  },
+  "154166d9f6bfcadeaba6ae8998967341" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ad80bc003f6678ba",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/ad80bc003f6678ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469328295,
+        "stop" : 1593469329384,
+        "duration" : 1089
+      }
+    } ]
+  },
+  "b5b55334a281a303871018b2a7ba25a9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3c49efb5d4f450ff",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/3c49efb5d4f450ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469325278,
+        "stop" : 1593469325953,
+        "duration" : 675
+      }
+    } ]
+  },
+  "367e1b5591213e2245c07cf15e8146e7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "d8d81c2b1b88c212",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/d8d81c2b1b88c212",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163723246,
+        "stop" : 1593163723941,
+        "duration" : 695
+      }
+    }, {
+      "uid" : "58a58d7367e9ab7f",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/58a58d7367e9ab7f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163723246,
+        "stop" : 1593163723941,
+        "duration" : 695
+      }
+    }, {
+      "uid" : "dd28435ddae9c5d8",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/dd28435ddae9c5d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163723246,
+        "stop" : 1593163723941,
+        "duration" : 695
+      }
+    }, {
+      "uid" : "71fb7b6993b1128c",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/71fb7b6993b1128c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640226025,
+        "stop" : 1592640226903,
+        "duration" : 878
+      }
+    }, {
+      "uid" : "ec4a097f9d1c06a1",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/ec4a097f9d1c06a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640187776,
+        "stop" : 1592640188795,
+        "duration" : 1019
+      }
+    } ]
+  },
+  "3d379140182e26bfbb7e4cddbd9e9269" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "87e3c0291339a0d9",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/87e3c0291339a0d9",
+      "status" : "broken",
+      "statusDetails" : "\nYou can implement step definitions for undefined steps with these snippets:\n\n@given(u'I load the website123')\ndef step_impl(context):\n    raise NotImplementedError(u'STEP: Given I load the website123')\n\n",
+      "time" : {
+        "start" : 1593164643971,
+        "stop" : 1593164643972,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "12a20268c41cc76f",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/12a20268c41cc76f",
+      "status" : "broken",
+      "statusDetails" : "\nYou can implement step definitions for undefined steps with these snippets:\n\n@given(u'I load the website123')\ndef step_impl(context):\n    raise NotImplementedError(u'STEP: Given I load the website123')\n\n",
+      "time" : {
+        "start" : 1593164643971,
+        "stop" : 1593164643972,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "13f4da39f235eead",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/13f4da39f235eead",
+      "status" : "broken",
+      "statusDetails" : "\nYou can implement step definitions for undefined steps with these snippets:\n\n@given(u'I load the website123')\ndef step_impl(context):\n    raise NotImplementedError(u'STEP: Given I load the website123')\n\n",
+      "time" : {
+        "start" : 1593164643971,
+        "stop" : 1593164643972,
+        "duration" : 1
+      }
+    } ]
+  },
+  "b761d9fc7e57f5a013520ed6fc336d4c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "446583462ccfc74f",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/446583462ccfc74f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469323331,
+        "stop" : 1593469324037,
+        "duration" : 706
+      }
+    } ]
+  },
+  "8ddaeb0a2a94d92c36246655c9196c1e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "e789f54d2bce1d3b",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/e789f54d2bce1d3b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163720836,
+        "stop" : 1593163721572,
+        "duration" : 736
+      }
+    }, {
+      "uid" : "15be13099e3fc4b1",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/15be13099e3fc4b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163720836,
+        "stop" : 1593163721572,
+        "duration" : 736
+      }
+    }, {
+      "uid" : "c57aad50202a40a6",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/c57aad50202a40a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163720836,
+        "stop" : 1593163721572,
+        "duration" : 736
+      }
+    }, {
+      "uid" : "6aa107e6e2588e6b",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/6aa107e6e2588e6b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640222653,
+        "stop" : 1592640224119,
+        "duration" : 1466
+      }
+    }, {
+      "uid" : "f6ec2439d6c51c28",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/f6ec2439d6c51c28",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640185576,
+        "stop" : 1592640186346,
+        "duration" : 770
+      }
+    } ]
+  },
+  "9cbc63a4ae810735789757125ed16af2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "7d1ed1a86ca514da",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/7d1ed1a86ca514da",
+      "status" : "broken",
+      "statusDetails" : "\nYou can implement step definitions for undefined steps with these snippets:\n\n@given(u'I load the website123')\ndef step_impl(context):\n    raise NotImplementedError(u'STEP: Given I load the website123')\n\n",
+      "time" : {
+        "start" : 1593164643975,
+        "stop" : 1593164643976,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "83ffcf58a6feaf54",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/83ffcf58a6feaf54",
+      "status" : "broken",
+      "statusDetails" : "\nYou can implement step definitions for undefined steps with these snippets:\n\n@given(u'I load the website123')\ndef step_impl(context):\n    raise NotImplementedError(u'STEP: Given I load the website123')\n\n",
+      "time" : {
+        "start" : 1593164643975,
+        "stop" : 1593164643976,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b9fca8475c6137ae",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/b9fca8475c6137ae",
+      "status" : "broken",
+      "statusDetails" : "\nYou can implement step definitions for undefined steps with these snippets:\n\n@given(u'I load the website123')\ndef step_impl(context):\n    raise NotImplementedError(u'STEP: Given I load the website123')\n\n",
+      "time" : {
+        "start" : 1593164643975,
+        "stop" : 1593164643976,
+        "duration" : 1
+      }
+    } ]
+  },
+  "efff43c9f0edd1010bd3969ad3dcd145" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eaed220eb1df9d8a",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/eaed220eb1df9d8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469329385,
+        "stop" : 1593469330245,
+        "duration" : 860
+      }
+    } ]
+  },
+  "cf0ecc8788aba3c9d59ce30ed4430237" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 5,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "3a677e73f469822f",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/3a677e73f469822f",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'Dashboard' object has no attribute 'veify_detector_setting'\n",
+      "time" : {
+        "start" : 1593163718846,
+        "stop" : 1593163719985,
+        "duration" : 1139
+      }
+    }, {
+      "uid" : "f900a8872caf9eed",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/f900a8872caf9eed",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'Dashboard' object has no attribute 'veify_detector_setting'\n",
+      "time" : {
+        "start" : 1593163718846,
+        "stop" : 1593163719985,
+        "duration" : 1139
+      }
+    }, {
+      "uid" : "117fd9eb50b97497",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/117fd9eb50b97497",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'Dashboard' object has no attribute 'veify_detector_setting'\n",
+      "time" : {
+        "start" : 1593163718846,
+        "stop" : 1593163719985,
+        "duration" : 1139
+      }
+    }, {
+      "uid" : "790bbc62d5c55fa7",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/790bbc62d5c55fa7",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'Dashboard' object has no attribute 'veify_detector_setting'\n",
+      "time" : {
+        "start" : 1592640220746,
+        "stop" : 1592640221718,
+        "duration" : 972
+      }
+    }, {
+      "uid" : "6b6c9fc9187dcae8",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/6b6c9fc9187dcae8",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'Dashboard' object has no attribute 'veify_detector_setting'\n",
+      "time" : {
+        "start" : 1592640183875,
+        "stop" : 1592640184826,
+        "duration" : 951
+      }
+    } ]
+  },
+  "9eb04fe6ecd4d6029edc4315ee40193b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "74f06459bd431efe",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/74f06459bd431efe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469332132,
+        "stop" : 1593469333009,
+        "duration" : 877
+      }
+    } ]
+  },
+  "6eb476d7a55d801c4317942e956a46d5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "9d3b1cf441fd101",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/9d3b1cf441fd101",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163723941,
+        "stop" : 1593163724847,
+        "duration" : 906
+      }
+    }, {
+      "uid" : "79e2baea5c0efda",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/79e2baea5c0efda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163723941,
+        "stop" : 1593163724847,
+        "duration" : 906
+      }
+    }, {
+      "uid" : "12cb77f538646fcb",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/12cb77f538646fcb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163723941,
+        "stop" : 1593163724847,
+        "duration" : 906
+      }
+    }, {
+      "uid" : "befa2a5ef63483f8",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/befa2a5ef63483f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640226909,
+        "stop" : 1592640227688,
+        "duration" : 779
+      }
+    }, {
+      "uid" : "a4298342eb09a37f",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/a4298342eb09a37f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640188795,
+        "stop" : 1592640189557,
+        "duration" : 762
+      }
+    } ]
+  },
+  "cd46c4a89c17f97fb653f94558d3ea24" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "902d95a40c2855ab",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/902d95a40c2855ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469319553,
+        "stop" : 1593469320130,
+        "duration" : 577
+      }
+    } ]
+  },
+  "7d45eb3222f88be1974c22eb61707b55" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "8902c5d4fccfc4dd",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/8902c5d4fccfc4dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163714511,
+        "stop" : 1593163715400,
+        "duration" : 889
+      }
+    }, {
+      "uid" : "a484d3b41b423047",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/a484d3b41b423047",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163714511,
+        "stop" : 1593163715400,
+        "duration" : 889
+      }
+    }, {
+      "uid" : "afd01ffbd9916e90",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/afd01ffbd9916e90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163714511,
+        "stop" : 1593163715400,
+        "duration" : 889
+      }
+    }, {
+      "uid" : "2fbf608718a03d2b",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/2fbf608718a03d2b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640215221,
+        "stop" : 1592640216194,
+        "duration" : 973
+      }
+    }, {
+      "uid" : "47921c71a1bfaa0a",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/47921c71a1bfaa0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640178423,
+        "stop" : 1592640179392,
+        "duration" : 969
+      }
+    } ]
+  },
+  "a303c365a11158ee4771e59d637b278b" : {
+    "statistic" : {
+      "failed" : 5,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "3d63c19b090d4219",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/3d63c19b090d4219",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Component Battery not found on page\n",
+      "time" : {
+        "start" : 1593163705283,
+        "stop" : 1593163706387,
+        "duration" : 1104
+      }
+    }, {
+      "uid" : "bccd4213a9e8beeb",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/bccd4213a9e8beeb",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Component Battery not found on page\n",
+      "time" : {
+        "start" : 1593163705283,
+        "stop" : 1593163706387,
+        "duration" : 1104
+      }
+    }, {
+      "uid" : "3d14a62475e876ab",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/3d14a62475e876ab",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Component Battery not found on page\n",
+      "time" : {
+        "start" : 1593163705283,
+        "stop" : 1593163706387,
+        "duration" : 1104
+      }
+    }, {
+      "uid" : "580acd7f13dfb95b",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/580acd7f13dfb95b",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Component Battery not found on page\n",
+      "time" : {
+        "start" : 1592640203271,
+        "stop" : 1592640204567,
+        "duration" : 1296
+      }
+    }, {
+      "uid" : "dc7280cb696adc57",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/dc7280cb696adc57",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Component Battery not found on page\n",
+      "time" : {
+        "start" : 1592640168492,
+        "stop" : 1592640169559,
+        "duration" : 1067
+      }
+    } ]
+  },
+  "d188130fcb3361b29770acff4026240a" : {
+    "statistic" : {
+      "failed" : 5,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "fdbc0345821d63bf",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/fdbc0345821d63bf",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Component GPS not found on page\n",
+      "time" : {
+        "start" : 1593163706388,
+        "stop" : 1593163707325,
+        "duration" : 937
+      }
+    }, {
+      "uid" : "265789d9e0c92800",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/265789d9e0c92800",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Component GPS not found on page\n",
+      "time" : {
+        "start" : 1593163706388,
+        "stop" : 1593163707325,
+        "duration" : 937
+      }
+    }, {
+      "uid" : "3f9389c469d4d00d",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/3f9389c469d4d00d",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Component GPS not found on page\n",
+      "time" : {
+        "start" : 1593163706388,
+        "stop" : 1593163707325,
+        "duration" : 937
+      }
+    }, {
+      "uid" : "c04ac2501fb219fd",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/c04ac2501fb219fd",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Component GPS not found on page\n",
+      "time" : {
+        "start" : 1592640204574,
+        "stop" : 1592640205830,
+        "duration" : 1256
+      }
+    }, {
+      "uid" : "18e323cdaf6f606c",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/18e323cdaf6f606c",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Component GPS not found on page\n",
+      "time" : {
+        "start" : 1592640169560,
+        "stop" : 1592640170577,
+        "duration" : 1017
+      }
+    } ]
+  },
+  "6a4ad5125b543c279e0fb436a4f01bde" : {
+    "statistic" : {
+      "failed" : 5,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "62943a66e058245a",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/62943a66e058245a",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Component Detector Settings not found on page\n",
+      "time" : {
+        "start" : 1593163703835,
+        "stop" : 1593163705282,
+        "duration" : 1447
+      }
+    }, {
+      "uid" : "3ba1bf1aff4c616e",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/3ba1bf1aff4c616e",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Component Detector Settings not found on page\n",
+      "time" : {
+        "start" : 1593163703835,
+        "stop" : 1593163705282,
+        "duration" : 1447
+      }
+    }, {
+      "uid" : "47ede07f56e21683",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/47ede07f56e21683",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Component Detector Settings not found on page\n",
+      "time" : {
+        "start" : 1593163703835,
+        "stop" : 1593163705282,
+        "duration" : 1447
+      }
+    }, {
+      "uid" : "9a48fa3eca828431",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/9a48fa3eca828431",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Component Detector Settings not found on page\n",
+      "time" : {
+        "start" : 1592640201488,
+        "stop" : 1592640203269,
+        "duration" : 1781
+      }
+    }, {
+      "uid" : "4bb17a90c00f9ee6",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/4bb17a90c00f9ee6",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Component Detector Settings not found on page\n",
+      "time" : {
+        "start" : 1592640166831,
+        "stop" : 1592640168491,
+        "duration" : 1660
+      }
+    } ]
+  },
+  "9bc5f16cefccb61f9c1edad441021a9f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "4b8c5d750b1971bf",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/4b8c5d750b1971bf",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"dashboard-status-component\"]\"}\n  (Session info: headless chrome=83.0.4103.116)\n\n",
+      "time" : {
+        "start" : 1593163712863,
+        "stop" : 1593163713636,
+        "duration" : 773
+      }
+    }, {
+      "uid" : "16ff9dcc034924c8",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/16ff9dcc034924c8",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"dashboard-status-component\"]\"}\n  (Session info: headless chrome=83.0.4103.116)\n\n",
+      "time" : {
+        "start" : 1593163712863,
+        "stop" : 1593163713636,
+        "duration" : 773
+      }
+    }, {
+      "uid" : "23c609b9acc36413",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/23c609b9acc36413",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"dashboard-status-component\"]\"}\n  (Session info: headless chrome=83.0.4103.116)\n\n",
+      "time" : {
+        "start" : 1593163712863,
+        "stop" : 1593163713636,
+        "duration" : 773
+      }
+    }, {
+      "uid" : "5aa6e5a192bf8907",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/5aa6e5a192bf8907",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640212696,
+        "stop" : 1592640214075,
+        "duration" : 1379
+      }
+    }, {
+      "uid" : "a4dd341b42e50870",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/a4dd341b42e50870",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640176248,
+        "stop" : 1592640177168,
+        "duration" : 920
+      }
+    } ]
+  },
+  "8b29ee1c9366b3357abe33525c7418d3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b7969f692cd5e27e",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/b7969f692cd5e27e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469321396,
+        "stop" : 1593469322121,
+        "duration" : 725
+      }
+    } ]
+  },
+  "237c67493a4216e85758987d81f71471" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b7e33a523c1e64b1",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/b7e33a523c1e64b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469327357,
+        "stop" : 1593469328294,
+        "duration" : 937
+      }
+    } ]
+  },
+  "8a20f79fb1fbfcb9451d9d115c38e216" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8fd81ca5e7795d2d",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/8fd81ca5e7795d2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469324038,
+        "stop" : 1593469324668,
+        "duration" : 630
+      }
+    } ]
+  },
+  "f5ddbb3b462599821810891c53691d2a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 5,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "9d5d26bf7526a5e6",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/9d5d26bf7526a5e6",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'Dashboard' object has no attribute 'veify_detector_setting'\n",
+      "time" : {
+        "start" : 1593163717244,
+        "stop" : 1593163718049,
+        "duration" : 805
+      }
+    }, {
+      "uid" : "340018665419ea88",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/340018665419ea88",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'Dashboard' object has no attribute 'veify_detector_setting'\n",
+      "time" : {
+        "start" : 1593163717244,
+        "stop" : 1593163718049,
+        "duration" : 805
+      }
+    }, {
+      "uid" : "1f0cf09277aa7e7",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/1f0cf09277aa7e7",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'Dashboard' object has no attribute 'veify_detector_setting'\n",
+      "time" : {
+        "start" : 1593163717244,
+        "stop" : 1593163718049,
+        "duration" : 805
+      }
+    }, {
+      "uid" : "e2d15cfc971c12f2",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/e2d15cfc971c12f2",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'Dashboard' object has no attribute 'veify_detector_setting'\n",
+      "time" : {
+        "start" : 1592640218667,
+        "stop" : 1592640220003,
+        "duration" : 1336
+      }
+    }, {
+      "uid" : "b7352a72cdd74195",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/b7352a72cdd74195",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'Dashboard' object has no attribute 'veify_detector_setting'\n",
+      "time" : {
+        "start" : 1592640181396,
+        "stop" : 1592640182730,
+        "duration" : 1334
+      }
+    } ]
+  },
+  "bc81f0fbd0c8653e5739f5221093da84" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "9640a1ecc42a274d",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/9640a1ecc42a274d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163721573,
+        "stop" : 1593163722317,
+        "duration" : 744
+      }
+    }, {
+      "uid" : "989667f66eb8a955",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/989667f66eb8a955",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163721573,
+        "stop" : 1593163722317,
+        "duration" : 744
+      }
+    }, {
+      "uid" : "63165aa7ee5bd3f3",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/63165aa7ee5bd3f3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163721573,
+        "stop" : 1593163722317,
+        "duration" : 744
+      }
+    }, {
+      "uid" : "fe8dad96ea52913",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/fe8dad96ea52913",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640224120,
+        "stop" : 1592640224963,
+        "duration" : 843
+      }
+    }, {
+      "uid" : "32b679e682c2452e",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/32b679e682c2452e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640186347,
+        "stop" : 1592640187028,
+        "duration" : 681
+      }
+    } ]
+  },
+  "0bc1be3dcca8b53490b305e60db1b311" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "c8f49fffb1e84af0",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/c8f49fffb1e84af0",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"dashboard-status-component\"]\"}\n  (Session info: headless chrome=83.0.4103.116)\n\n",
+      "time" : {
+        "start" : 1593163710119,
+        "stop" : 1593163710979,
+        "duration" : 860
+      }
+    }, {
+      "uid" : "5b005e9b35eae7fd",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/5b005e9b35eae7fd",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"dashboard-status-component\"]\"}\n  (Session info: headless chrome=83.0.4103.116)\n\n",
+      "time" : {
+        "start" : 1593163710119,
+        "stop" : 1593163710979,
+        "duration" : 860
+      }
+    }, {
+      "uid" : "b4125ce70e2de6f7",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/b4125ce70e2de6f7",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"dashboard-status-component\"]\"}\n  (Session info: headless chrome=83.0.4103.116)\n\n",
+      "time" : {
+        "start" : 1593163710119,
+        "stop" : 1593163710979,
+        "duration" : 860
+      }
+    }, {
+      "uid" : "5a76da4b63022858",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/5a76da4b63022858",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640208934,
+        "stop" : 1592640210209,
+        "duration" : 1275
+      }
+    }, {
+      "uid" : "a8122a2276c3ea8d",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/a8122a2276c3ea8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640173509,
+        "stop" : 1592640174448,
+        "duration" : 939
+      }
+    } ]
+  },
+  "2e356c35cad48b94ed80cdc412d67549" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "32b971f35829b01",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/32b971f35829b01",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"dashboard-status-component\"]\"}\n  (Session info: headless chrome=83.0.4103.116)\n\n",
+      "time" : {
+        "start" : 1593163709233,
+        "stop" : 1593163710118,
+        "duration" : 885
+      }
+    }, {
+      "uid" : "25bfa774e2eb654a",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/25bfa774e2eb654a",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"dashboard-status-component\"]\"}\n  (Session info: headless chrome=83.0.4103.116)\n\n",
+      "time" : {
+        "start" : 1593163709233,
+        "stop" : 1593163710118,
+        "duration" : 885
+      }
+    }, {
+      "uid" : "5e51eb941d899290",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/5e51eb941d899290",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"dashboard-status-component\"]\"}\n  (Session info: headless chrome=83.0.4103.116)\n\n",
+      "time" : {
+        "start" : 1593163709233,
+        "stop" : 1593163710118,
+        "duration" : 885
+      }
+    }, {
+      "uid" : "e2fb51303126425b",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/e2fb51303126425b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640207927,
+        "stop" : 1592640208933,
+        "duration" : 1006
+      }
+    }, {
+      "uid" : "aab4da25881af4f6",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/aab4da25881af4f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640172532,
+        "stop" : 1592640173508,
+        "duration" : 976
+      }
+    } ]
+  },
+  "eda199c4d79764f42cc8f5e48895dc0b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "60fbf3729fbd8e22",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/60fbf3729fbd8e22",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469324669,
+        "stop" : 1593469325277,
+        "duration" : 608
+      }
+    } ]
+  },
+  "8d4f7c1729101086ad2d0800b7f82b3e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "424af4472c70d156",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/424af4472c70d156",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163722318,
+        "stop" : 1593163723245,
+        "duration" : 927
+      }
+    }, {
+      "uid" : "15abab3d4771f314",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/15abab3d4771f314",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163722318,
+        "stop" : 1593163723245,
+        "duration" : 927
+      }
+    }, {
+      "uid" : "154e6572c9951c7b",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/154e6572c9951c7b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163722318,
+        "stop" : 1593163723245,
+        "duration" : 927
+      }
+    }, {
+      "uid" : "309eb28c8f65c009",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/309eb28c8f65c009",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640224963,
+        "stop" : 1592640226024,
+        "duration" : 1061
+      }
+    }, {
+      "uid" : "38101badcd86368a",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/38101badcd86368a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640187029,
+        "stop" : 1592640187774,
+        "duration" : 745
+      }
+    } ]
+  },
+  "7de7e91543d9471ca379450c248a7a19" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "308183ac6572711e",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/308183ac6572711e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469330246,
+        "stop" : 1593469331285,
+        "duration" : 1039
+      }
+    } ]
+  },
+  "5e856edbdab9bd7866149e4898a1eeda" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "48711393cce08b98",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/48711393cce08b98",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163716268,
+        "stop" : 1593163717243,
+        "duration" : 975
+      }
+    }, {
+      "uid" : "849e5d271dbd449a",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/849e5d271dbd449a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163716268,
+        "stop" : 1593163717243,
+        "duration" : 975
+      }
+    }, {
+      "uid" : "ae37f2ba158eb4c0",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/ae37f2ba158eb4c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163716268,
+        "stop" : 1593163717243,
+        "duration" : 975
+      }
+    }, {
+      "uid" : "c53ddc670bdef4ad",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/c53ddc670bdef4ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640217392,
+        "stop" : 1592640218666,
+        "duration" : 1274
+      }
+    }, {
+      "uid" : "578b2f79e67d8fec",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/578b2f79e67d8fec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640180294,
+        "stop" : 1592640181389,
+        "duration" : 1095
+      }
+    } ]
+  },
+  "d970cc95e3bba6daa38b5aa4101d0665" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 5,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "b416ed52e4253449",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/b416ed52e4253449",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'Dashboard' object has no attribute 'veify_detector_setting'\n",
+      "time" : {
+        "start" : 1593163718050,
+        "stop" : 1593163718844,
+        "duration" : 794
+      }
+    }, {
+      "uid" : "99124132b59c7f05",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/99124132b59c7f05",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'Dashboard' object has no attribute 'veify_detector_setting'\n",
+      "time" : {
+        "start" : 1593163718050,
+        "stop" : 1593163718844,
+        "duration" : 794
+      }
+    }, {
+      "uid" : "c351ab8ac5ba4b38",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/c351ab8ac5ba4b38",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'Dashboard' object has no attribute 'veify_detector_setting'\n",
+      "time" : {
+        "start" : 1593163718050,
+        "stop" : 1593163718844,
+        "duration" : 794
+      }
+    }, {
+      "uid" : "2f9caac74352d0a6",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/2f9caac74352d0a6",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'Dashboard' object has no attribute 'veify_detector_setting'\n",
+      "time" : {
+        "start" : 1592640220005,
+        "stop" : 1592640220746,
+        "duration" : 741
+      }
+    }, {
+      "uid" : "349c1ffd9252f43b",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/349c1ffd9252f43b",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'Dashboard' object has no attribute 'veify_detector_setting'\n",
+      "time" : {
+        "start" : 1592640182731,
+        "stop" : 1592640183874,
+        "duration" : 1143
+      }
+    } ]
+  },
+  "2cee5f0088f608394c5305e8e3bba3e8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "bc5df496b3a65f19",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/bc5df496b3a65f19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163724848,
+        "stop" : 1593163725606,
+        "duration" : 758
+      }
+    }, {
+      "uid" : "deec091e3607c",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/deec091e3607c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163724848,
+        "stop" : 1593163725606,
+        "duration" : 758
+      }
+    }, {
+      "uid" : "5267add3ba304c75",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/5267add3ba304c75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163724848,
+        "stop" : 1593163725606,
+        "duration" : 758
+      }
+    }, {
+      "uid" : "8471b0896c380719",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/8471b0896c380719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640227689,
+        "stop" : 1592640228443,
+        "duration" : 754
+      }
+    }, {
+      "uid" : "46ebed556f6489b3",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/46ebed556f6489b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640189560,
+        "stop" : 1592640190469,
+        "duration" : 909
+      }
+    } ]
+  },
+  "c8f249b78e8e82ff596443ffd0d2cfbc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9dea08974d7e983a",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/9dea08974d7e983a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469315019,
+        "stop" : 1593469319036,
+        "duration" : 4017
+      }
+    } ]
+  },
+  "ddf2fd67f7905fd3f35b51a051060ce6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "500709a293880299",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/500709a293880299",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469325954,
+        "stop" : 1593469326642,
+        "duration" : 688
+      }
+    } ]
+  },
+  "4d1eb9c6b0ce93d954ed71cc91a809a1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "acd07ae22c5e47af",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/acd07ae22c5e47af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469326650,
+        "stop" : 1593469327356,
+        "duration" : 706
+      }
+    } ]
+  },
+  "300714e7a17b20f6c31f2bef0917cb1a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4238130da1a932e1",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/4238130da1a932e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469333011,
+        "stop" : 1593469333642,
+        "duration" : 631
+      }
+    } ]
+  },
+  "a3d0f23d76af29d993c7f1267b05639a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "f38e80873c6741ba",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/f38e80873c6741ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163719986,
+        "stop" : 1593163720835,
+        "duration" : 849
+      }
+    }, {
+      "uid" : "cff45d276c9531c6",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/cff45d276c9531c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163719986,
+        "stop" : 1593163720835,
+        "duration" : 849
+      }
+    }, {
+      "uid" : "6ea82c449a8926d4",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/6ea82c449a8926d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593163719986,
+        "stop" : 1593163720835,
+        "duration" : 849
+      }
+    }, {
+      "uid" : "531bd6fdd9e9ef18",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/531bd6fdd9e9ef18",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640221731,
+        "stop" : 1592640222646,
+        "duration" : 915
+      }
+    }, {
+      "uid" : "e89001cc97c25fea",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/e89001cc97c25fea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640184826,
+        "stop" : 1592640185575,
+        "duration" : 749
+      }
+    } ]
+  },
+  "fd1ae6a7bb647af7ec13361c52102898" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3fdfd60068e0773b",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/3fdfd60068e0773b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469331286,
+        "stop" : 1593469332131,
+        "duration" : 845
+      }
+    } ]
+  },
+  "8e664955eff7fcc267d7835bf131d098" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "522318210b0224ce",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure/#testresult/522318210b0224ce",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"dashboard-status-component\"]\"}\n  (Session info: headless chrome=83.0.4103.116)\n\n",
+      "time" : {
+        "start" : 1593163708273,
+        "stop" : 1593163709232,
+        "duration" : 959
+      }
+    }, {
+      "uid" : "d4bcc765f3749af4",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure/#testresult/d4bcc765f3749af4",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"dashboard-status-component\"]\"}\n  (Session info: headless chrome=83.0.4103.116)\n\n",
+      "time" : {
+        "start" : 1593163708273,
+        "stop" : 1593163709232,
+        "duration" : 959
+      }
+    }, {
+      "uid" : "255466cb35820c60",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure/#testresult/255466cb35820c60",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"dashboard-status-component\"]\"}\n  (Session info: headless chrome=83.0.4103.116)\n\n",
+      "time" : {
+        "start" : 1593163708273,
+        "stop" : 1593163709232,
+        "duration" : 959
+      }
+    }, {
+      "uid" : "3a2d37e789937503",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure/#testresult/3a2d37e789937503",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640206912,
+        "stop" : 1592640207920,
+        "duration" : 1008
+      }
+    }, {
+      "uid" : "7fafa0cb9c50f36e",
+      "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure/#testresult/7fafa0cb9c50f36e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592640171623,
+        "stop" : 1592640172531,
+        "duration" : 908
+      }
+    } ]
+  }
+}

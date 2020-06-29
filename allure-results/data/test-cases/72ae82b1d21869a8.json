@@ -1,0 +1,167 @@
+{
+  "uid" : "72ae82b1d21869a8",
+  "name" : "Dropbox",
+  "historyId" : "237c67493a4216e85758987d81f71471",
+  "time" : {
+    "start" : 1593469415487,
+    "stop" : 1593469416276,
+    "duration" : 789
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I load the website",
+      "time" : {
+        "start" : 1593469415487,
+        "stop" : 1593469416255,
+        "duration" : 768
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Load the website",
+        "time" : {
+          "start" : 1593469415488,
+          "stop" : 1593469416255,
+          "duration" : 767
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "context",
+          "value" : "<behave.runner.Context object at 0x10bc2ec40>"
+        } ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "When I click \"Products\"",
+      "time" : {
+        "start" : 1593469416256,
+        "stop" : 1593469416263,
+        "duration" : 7
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And I click \"Dropbox\" link",
+      "time" : {
+        "start" : 1593469416264,
+        "stop" : 1593469416275,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then I can see \"Dropbox\" page",
+      "time" : {
+        "start" : 1593469416275,
+        "stop" : 1593469416276,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "header menu"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "971a4cd47d67a5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469327357,
+        "stop" : 1593469328294,
+        "duration" : 937
+      }
+    }, {
+      "uid" : "4d3c659356da778b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593468814067,
+        "stop" : 1593468814722,
+        "duration" : 655
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "b7e33a523c1e64b1",
+        "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/b7e33a523c1e64b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593469327357,
+          "stop" : 1593469328294,
+          "duration" : 937
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "72ae82b1d21869a8.json",
+  "parameterValues" : [ ]
+}

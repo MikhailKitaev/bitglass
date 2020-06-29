@@ -1,0 +1,292 @@
+Feature: homepage
+
+
+
+  Scenario: Website title
+        Given I load the website
+        Then I can see website title
+
+
+  Scenario: Website title
+        Given I load the website
+        Then I can see the company logo
+
+
+  Scenario Outline: Website header
+        Given I load the website
+        Then I see this component "<rows>"
+        Examples:
+            | rows              |
+            | +1-408-337-0190   |
+            | Free Trial        |
+            | Contact           |
+            | Partner Login     |
+            | Customer Login    |
+
+  Scenario Outline: Website menu
+        Given I load the website
+        Then I see this component "<rows>"
+        Examples:
+            | rows              |
+            | Request a Demo    |
+            | SASE              |
+            | Products          |
+            | Resources         |
+            | Blog              |
+            | Customers         |
+            | Company           |
+
+
+
+
+
+  Scenario: Website Total Cloud Security content header
+        Given I load the website
+        Then I can see content header
+
+  Scenario: Website Total Cloud Security content description
+        Given I load the website
+        Then I can see content description
+
+  Scenario: Website Total Cloud Security content image
+        Given I load the website
+        Then I can see content image
+
+  Scenario: Website Total Cloud Security content button
+        Given I load the website
+        Then I can see content button
+
+  Scenario: Verified Uptime Since 2014 image
+        Given I load the website
+        Then I can see Verified Uptime Since 2014 image
+
+
+
+
+
+  Scenario: Website Recognized Leader content header
+        Given I load the website
+        Then I can see content header
+
+  Scenario: Website Recognized Leader content description
+        Given I load the website
+        Then I can see content description
+
+  Scenario: Website Recognized Leader content image
+        Given I load the website
+        Then I can see content image
+
+  Scenario: Website Recognized Leader content button
+        Given I load the website
+        Then I can see content button
+
+
+
+
+
+  Scenario: Website Consistent Security Across any App, Device or Location content header
+        Given I load the website
+        Then I can see content header
+
+  Scenario: Website Consistent Security Across any App, Device or Location description
+        Given I load the website
+        Then I can see content description
+
+  Scenario: Website Consistent Security Across any App, Device or Location image
+        Given I load the website
+        Then I can see content image
+
+  Scenario: Website Consistent Security Across any App, Device or Location button
+        Given I load the website
+        Then I can see content button
+
+
+
+
+  Scenario: Website Advanced Threat Protection for any Interaction content header
+        Given I load the website
+        Then I can see content header
+
+  Scenario: Website Advanced Threat Protection for any Interaction content description
+        Given I load the website
+        Then I can see content description
+
+  Scenario: Website Advanced Threat Protection for any Interaction content image
+        Given I load the website
+        Then I can see content image
+
+  Scenario: Website Advanced Threat Protection for any Interaction content button
+        Given I load the website
+        Then I can see content button
+
+
+
+
+
+  Scenario: Website Web Security at Scale content header
+        Given I load the website
+        Then I can see content header
+
+  Scenario: Website Web Security at Scale content description
+        Given I load the website
+        Then I can see content description
+
+  Scenario: Website Web Security at Scale content image
+        Given I load the website
+        Then I can see content image
+
+  Scenario: Website Web Security at Scale content button
+        Given I load the website
+        Then I can see content button
+
+
+
+
+  Scenario: Website Secure Any App without Agents content header
+        Given I load the website
+        Then I can see content header
+
+  Scenario: Website Secure Any App without Agents content description
+        Given I load the website
+        Then I can see content description
+
+  Scenario: Website Secure Any App without Agents content image
+        Given I load the website
+        Then I can see content image
+
+  Scenario: Website Secure Any App without Agents content button
+        Given I load the website
+        Then I can see content button
+
+
+
+
+  Scenario: Website Performance & Uptime in Cloud Security content header
+        Given I load the website
+        Then I can see content header
+
+  Scenario: Website Performance & Uptime in Cloud Security content description
+        Given I load the website
+        Then I can see content description
+
+  Scenario: Website Performance & Uptime in Cloud Security content image
+        Given I load the website
+        Then I can see content image
+
+  Scenario: Website Performance & Uptime in Cloud Security content button
+        Given I load the website
+        Then I can see content button
+
+
+
+
+  Scenario: Website Why Customers Choose Bitglass content header
+        Given I load the website
+        Then I can see content header
+
+  Scenario: Website Performance & Uptime in Cloud Security content description
+        Given I load the website
+        Then I can see content description
+
+  Scenario: Website Performance & Uptime in Cloud Security content image
+        Given I load the website
+        Then I can see content image
+
+  Scenario: Website Performance & Uptime in Cloud Security content button
+        Given I load the website
+        Then I can see content button
+
+
+
+
+
+  Scenario: Website Why Customers Choose Bitglass content header
+        Given I load the website
+        Then I can see content header
+
+  Scenario Outline: Website Why Customers Choose Bitglass content
+        Given I load the website
+        Then I see this component "<rows>"
+        Examples:
+            | rows                         |
+            | John Muir Health             |
+            | Northwestern University      |
+            | Ricoh                        |
+
+
+
+
+  Scenario: Website Resources content header
+        Given I load the website
+        Then I can see content header
+
+  Scenario Outline: Website Why Customers Choose Bitglass content
+        Given I load the website
+        Then I see this component "<rows>"
+        Examples:
+            | rows                       |
+            | Cloud Adoption 2019        |
+            | CASB Definitive Guide      |
+            | Top CASB Use Cases         |
+
+
+
+  Scenario Outline: Website footer INDUSTRIES
+        Given I load the website
+        Then I see this component "<rows>"
+        Examples:
+            | rows                         |
+            | INDUSTRIES                   |
+            | Legal Sector                 |
+            | Healthcare                   |
+            | Financial Services           |
+            | Higher Education             |
+            | Manufacturing                |
+            | Government                   |
+
+
+
+
+  Scenario Outline: Website footer SOLUTIONS
+        Given I load the website
+        Then I see this component "<rows>"
+        Examples:
+            | rows                         |
+            | SOLUTIONS                    |
+            | Cloud Security               |
+            |  ta Loss Prevention          |
+            |  aS Security                 |
+            |  aS Security                 |
+
+
+
+  Scenario Outline: Website footer WHY BITGLASS
+        Given I load the website
+        Then I see this component "<rows>"
+        Examples:
+            | rows                         |
+            | Why Bitglass                 |
+            | Bitglass Compared            |
+            | Competitive Trade-Inntion    |
+
+
+
+  Scenario Outline: Website footer COMPANY
+        Given I load the website
+        Then I see this component "<rows>"
+        Examples:
+            | rows                         |
+            | About Bitglass               |
+            | Careers                      |
+            | Partners                     |
+
+
+  Scenario Outline: Website footer COMPANY
+        Given I load the website
+        Then I see this component "<rows>"
+        Examples:
+            | rows                         |
+            | Contact Us                   |
+            | USA: +1-408-337-0190         |
+
+

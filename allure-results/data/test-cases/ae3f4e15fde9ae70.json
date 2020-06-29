@@ -1,0 +1,167 @@
+{
+  "uid" : "ae3f4e15fde9ae70",
+  "name" : "Salesforce",
+  "historyId" : "ddf2fd67f7905fd3f35b51a051060ce6",
+  "time" : {
+    "start" : 1593469413628,
+    "stop" : 1593469414399,
+    "duration" : 771
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I load the website",
+      "time" : {
+        "start" : 1593469413628,
+        "stop" : 1593469414382,
+        "duration" : 754
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Load the website",
+        "time" : {
+          "start" : 1593469413628,
+          "stop" : 1593469414382,
+          "duration" : 754
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "context",
+          "value" : "<behave.runner.Context object at 0x10bc2ec40>"
+        } ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "When I click \"Products\"",
+      "time" : {
+        "start" : 1593469414382,
+        "stop" : 1593469414389,
+        "duration" : 7
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And I click \"Salesforce\" link",
+      "time" : {
+        "start" : 1593469414389,
+        "stop" : 1593469414399,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then I can see \"Salesforce\" page",
+      "time" : {
+        "start" : 1593469414399,
+        "stop" : 1593469414399,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "header menu"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a0877c3762e56e9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469325954,
+        "stop" : 1593469326642,
+        "duration" : 688
+      }
+    }, {
+      "uid" : "e45629f28bb1b6fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593468812890,
+        "stop" : 1593468813467,
+        "duration" : 577
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "500709a293880299",
+        "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/500709a293880299",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593469325954,
+          "stop" : 1593469326642,
+          "duration" : 688
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ae3f4e15fde9ae70.json",
+  "parameterValues" : [ ]
+}

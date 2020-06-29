@@ -1,0 +1,167 @@
+{
+  "uid" : "2e73a299f9f01bd5",
+  "name" : "Box",
+  "historyId" : "4d1eb9c6b0ce93d954ed71cc91a809a1",
+  "time" : {
+    "start" : 1593469414400,
+    "stop" : 1593469415486,
+    "duration" : 1086
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I load the website",
+      "time" : {
+        "start" : 1593469414401,
+        "stop" : 1593469415467,
+        "duration" : 1066
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Load the website",
+        "time" : {
+          "start" : 1593469414401,
+          "stop" : 1593469415467,
+          "duration" : 1066
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "context",
+          "value" : "<behave.runner.Context object at 0x10bc2ec40>"
+        } ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "When I click \"Products\"",
+      "time" : {
+        "start" : 1593469415467,
+        "stop" : 1593469415473,
+        "duration" : 6
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And I click \"Box\" link",
+      "time" : {
+        "start" : 1593469415474,
+        "stop" : 1593469415485,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then I can see \"Box\" page",
+      "time" : {
+        "start" : 1593469415486,
+        "stop" : 1593469415486,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "header menu"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c799c6ec1968eb13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469326650,
+        "stop" : 1593469327356,
+        "duration" : 706
+      }
+    }, {
+      "uid" : "94d8dec445deea2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593468813468,
+        "stop" : 1593468814066,
+        "duration" : 598
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "acd07ae22c5e47af",
+        "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/acd07ae22c5e47af",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593469326650,
+          "stop" : 1593469327356,
+          "duration" : 706
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "2e73a299f9f01bd5.json",
+  "parameterValues" : [ ]
+}

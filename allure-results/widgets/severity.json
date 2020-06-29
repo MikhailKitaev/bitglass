@@ -1,0 +1,211 @@
+[ {
+  "uid" : "e045eddb29e6ce0e",
+  "name" : "Exchange",
+  "time" : {
+    "start" : 1593469416277,
+    "stop" : 1593469417682,
+    "duration" : 1405
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce0951c0d462e384",
+  "name" : "Office 365",
+  "time" : {
+    "start" : 1593469411972,
+    "stop" : 1593469412972,
+    "duration" : 1000
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e73a299f9f01bd5",
+  "name" : "Box",
+  "time" : {
+    "start" : 1593469414400,
+    "stop" : 1593469415486,
+    "duration" : 1086
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cdaab034d0994f02",
+  "name" : "JIRA/Confluence",
+  "time" : {
+    "start" : 1593469420030,
+    "stop" : 1593469421713,
+    "duration" : 1683
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9446bcb1700eee03",
+  "name" : "CASB Magic Quadrant",
+  "time" : {
+    "start" : 1593469410046,
+    "stop" : 1593469411018,
+    "duration" : 972
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c387912fdeeaf0d",
+  "name" : "Free Trial",
+  "time" : {
+    "start" : 1593469361697,
+    "stop" : 1593469381237,
+    "duration" : 19540
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae3f4e15fde9ae70",
+  "name" : "Salesforce",
+  "time" : {
+    "start" : 1593469413628,
+    "stop" : 1593469414399,
+    "duration" : 771
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "674de83966cd0807",
+  "name" : "Request a Demo",
+  "time" : {
+    "start" : 1593469406086,
+    "stop" : 1593469407253,
+    "duration" : 1167
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b21faeb265741b7",
+  "name" : "What is SASE",
+  "time" : {
+    "start" : 1593469407255,
+    "stop" : 1593469408087,
+    "duration" : 832
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f63ec8646d2d683",
+  "name" : "Contact",
+  "time" : {
+    "start" : 1593469381239,
+    "stop" : 1593469396340,
+    "duration" : 15101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da36e5ad9bb7b77e",
+  "name" : "Amazon (AWS)",
+  "time" : {
+    "start" : 1593469417683,
+    "stop" : 1593469418619,
+    "duration" : 936
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "969d17163802170c",
+  "name" : "What is CASB",
+  "time" : {
+    "start" : 1593469408094,
+    "stop" : 1593469408942,
+    "duration" : 848
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72ae82b1d21869a8",
+  "name" : "Dropbox",
+  "time" : {
+    "start" : 1593469415487,
+    "stop" : 1593469416276,
+    "duration" : 789
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "708bf57b4dc87ebd",
+  "name" : "Partner Login",
+  "time" : {
+    "start" : 1593469396341,
+    "stop" : 1593469404842,
+    "duration" : 8501
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "49d8d8747b1ad8be",
+  "name" : "Cisco Spark",
+  "time" : {
+    "start" : 1593469421714,
+    "stop" : 1593469423577,
+    "duration" : 1863
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "49787d9456cc9c88",
+  "name" : "G Suite",
+  "time" : {
+    "start" : 1593469412973,
+    "stop" : 1593469413627,
+    "duration" : 654
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22890b15d9e6ef8e",
+  "name" : "What is CASB Architecture",
+  "time" : {
+    "start" : 1593469408943,
+    "stop" : 1593469410033,
+    "duration" : 1090
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0e58bd11243184",
+  "name" : "Customer Login",
+  "time" : {
+    "start" : 1593469404843,
+    "stop" : 1593469406084,
+    "duration" : 1241
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a8760f9eea8c461",
+  "name" : "All Cloud Apps",
+  "time" : {
+    "start" : 1593469411019,
+    "stop" : 1593469411971,
+    "duration" : 952
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72ff1b2d4d8bd43c",
+  "name" : "Slack",
+  "time" : {
+    "start" : 1593469418620,
+    "stop" : 1593469420029,
+    "duration" : 1409
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "805fa23d31c92dc5",
+  "name" : "Workday",
+  "time" : {
+    "start" : 1593469423578,
+    "stop" : 1593469425025,
+    "duration" : 1447
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

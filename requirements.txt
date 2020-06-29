@@ -1,0 +1,17 @@
+allure-behave==2.8.16
+allure-pytest==2.8.16
+allure-python-commons==2.8.16
+attrs==19.3.0
+behave==1.2.6
+more-itertools==8.3.0
+packaging==20.4
+parse==1.15.0
+parse-type==0.5.2
+pluggy==0.13.1
+py==1.8.1
+pyparsing==2.4.7
+pytest==5.4.3
+selenium==3.13.0
+six==1.15.0
+urllib3==1.25.9
+wcwidth==0.2.4

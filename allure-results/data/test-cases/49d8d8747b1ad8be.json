@@ -1,0 +1,167 @@
+{
+  "uid" : "49d8d8747b1ad8be",
+  "name" : "Cisco Spark",
+  "historyId" : "9eb04fe6ecd4d6029edc4315ee40193b",
+  "time" : {
+    "start" : 1593469421714,
+    "stop" : 1593469423577,
+    "duration" : 1863
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I load the website",
+      "time" : {
+        "start" : 1593469421714,
+        "stop" : 1593469423547,
+        "duration" : 1833
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Load the website",
+        "time" : {
+          "start" : 1593469421715,
+          "stop" : 1593469423547,
+          "duration" : 1832
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "context",
+          "value" : "<behave.runner.Context object at 0x10bc2ec40>"
+        } ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "When I click \"Products\"",
+      "time" : {
+        "start" : 1593469423547,
+        "stop" : 1593469423556,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And I click \"Cisco Spark\" link",
+      "time" : {
+        "start" : 1593469423556,
+        "stop" : 1593469423568,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then I can see \"Cisco Spark\" page",
+      "time" : {
+        "start" : 1593469423569,
+        "stop" : 1593469423577,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "header menu"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5c1c658be83217fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469332132,
+        "stop" : 1593469333009,
+        "duration" : 877
+      }
+    }, {
+      "uid" : "20ed75217a9e8502",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593468817460,
+        "stop" : 1593468818089,
+        "duration" : 629
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "74f06459bd431efe",
+        "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/74f06459bd431efe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593469332132,
+          "stop" : 1593469333009,
+          "duration" : 877
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "49d8d8747b1ad8be.json",
+  "parameterValues" : [ ]
+}

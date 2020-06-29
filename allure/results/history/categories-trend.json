@@ -1,0 +1,48 @@
+[ {
+  "buildOrder" : 17,
+  "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 16,
+  "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/16/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 4,
+    "Test defects" : 16
+  }
+}, {
+  "buildOrder" : 15,
+  "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/15/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 4,
+    "Test defects" : 16
+  }
+}, {
+  "buildOrder" : 14,
+  "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/14/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 4,
+    "Test defects" : 16
+  }
+}, {
+  "buildOrder" : 13,
+  "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/13/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 4,
+    "Test defects" : 3
+  }
+}, {
+  "buildOrder" : 12,
+  "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/12/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 4,
+    "Test defects" : 3
+  }
+}, {
+  "data" : { }
+} ]

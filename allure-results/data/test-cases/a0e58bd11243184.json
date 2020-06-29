@@ -1,0 +1,160 @@
+{
+  "uid" : "a0e58bd11243184",
+  "name" : "Customer Login",
+  "historyId" : "f2098796612d4dbc5af2eaf05b4a6f5c",
+  "time" : {
+    "start" : 1593469404843,
+    "stop" : 1593469406084,
+    "duration" : 1241
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I load the website",
+      "time" : {
+        "start" : 1593469404843,
+        "stop" : 1593469406080,
+        "duration" : 1237
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Load the website",
+        "time" : {
+          "start" : 1593469404844,
+          "stop" : 1593469406080,
+          "duration" : 1236
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "context",
+          "value" : "<behave.runner.Context object at 0x10bc2ec40>"
+        } ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "When I click Customer Login link",
+      "time" : {
+        "start" : 1593469406080,
+        "stop" : 1593469406080,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then I can see \"Customer Login\" page",
+      "time" : {
+        "start" : 1593469406080,
+        "stop" : 1593469406084,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "header"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7ca9d9a6b9acbaa6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469320131,
+        "stop" : 1593469320780,
+        "duration" : 649
+      }
+    }, {
+      "uid" : "32be91feb69cdbd9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593468807260,
+        "stop" : 1593468807899,
+        "duration" : 639
+      }
+    }, {
+      "uid" : "66f4ede0dfe32dce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593468751859,
+        "stop" : 1593468752822,
+        "duration" : 963
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "32cd17c2157912d4",
+        "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/32cd17c2157912d4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593469320131,
+          "stop" : 1593469320780,
+          "duration" : 649
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "a0e58bd11243184.json",
+  "parameterValues" : [ ]
+}

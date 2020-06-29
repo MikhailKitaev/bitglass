@@ -1,0 +1,167 @@
+{
+  "uid" : "805fa23d31c92dc5",
+  "name" : "Workday",
+  "historyId" : "300714e7a17b20f6c31f2bef0917cb1a",
+  "time" : {
+    "start" : 1593469423578,
+    "stop" : 1593469425025,
+    "duration" : 1447
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I load the website",
+      "time" : {
+        "start" : 1593469423579,
+        "stop" : 1593469425005,
+        "duration" : 1426
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Load the website",
+        "time" : {
+          "start" : 1593469423579,
+          "stop" : 1593469425005,
+          "duration" : 1426
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "context",
+          "value" : "<behave.runner.Context object at 0x10bc2ec40>"
+        } ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "When I click \"Products\"",
+      "time" : {
+        "start" : 1593469425006,
+        "stop" : 1593469425013,
+        "duration" : 7
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And I click \"Workday\" link",
+      "time" : {
+        "start" : 1593469425014,
+        "stop" : 1593469425024,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then I can see \"Workday\" page",
+      "time" : {
+        "start" : 1593469425025,
+        "stop" : 1593469425025,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "header menu"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bcea868d023e5f82",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593469333011,
+        "stop" : 1593469333642,
+        "duration" : 631
+      }
+    }, {
+      "uid" : "8e49fdd27f5e3b9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1593468818090,
+        "stop" : 1593468818795,
+        "duration" : 705
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "4238130da1a932e1",
+        "reportUrl" : "http://localhost:8080/job/allure_bdd_sample/17/allure/#testresult/4238130da1a932e1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593469333011,
+          "stop" : 1593469333642,
+          "duration" : 631
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "805fa23d31c92dc5.json",
+  "parameterValues" : [ ]
+}
